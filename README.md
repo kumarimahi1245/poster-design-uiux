@@ -11,7 +11,7 @@ Bakery Poster
   - Applied color contrast and layout balance for better readability.  
   - Optimized for both print and digital marketing.  
 - Preview:  
-  ![Bakery Poster](https://www.figma.com/design/VJqmja3UiHa6i2rFIN1JCC/bakery?node-id=0-1&t=yYwvU15G8zvNVx4F-1)  
+  (https://www.figma.com/design/VJqmja3UiHa6i2rFIN1JCC/bakery?node-id=0-1&t=yYwvU15G8zvNVx4F-1)  
 
 French Fries Promotional Poster  
 - Tools: Figma  
@@ -21,7 +21,7 @@ French Fries Promotional Poster
   - Eye-catching call-to-action design (50% Discount + Delivery options).  
   - Used bold typography and high-quality imagery for maximum impact.  
 - Preview:  
-  ![French Fries Poster](https://www.figma.com/design/Z2aJQiCGieXjFLLMRWNmYe/poster?node-id=0-1&t=RJY24XInE2HpgzQg-1)  
+  (https://www.figma.com/design/Z2aJQiCGieXjFLLMRWNmYe/poster?node-id=0-1&t=RJY24XInE2HpgzQg-1)  
 
 
 ## Tools Used  
